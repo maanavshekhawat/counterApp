@@ -1,0 +1,64 @@
+.App {
+  text-align: center;
+  background-color: #ffff;
+  color: white;
+  min-height: 100vh;
+}
+
+.header{
+  background-color: yellowgreen;
+}
+
+.footer{
+  background-color: blue;
+}
+
+.header{
+  background-color: rgb(23,32,135);
+  padding: 8px;
+}
+
+.main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  flex-wrap: wrap;
+  padding: 8px;
+}
+
+.btn{
+  background-color: rgb(23, 32, 135);
+  color: white;
+  padding: 5px;
+  margin: 5px;
+}
+
+.heading{
+  color: black;
+  font-size: 80px;
+  margin: 10px;
+}
+
+.movie{
+  background-color: rgb(219, 212, 212);
+  color: black;
+  border: 1px solid gray;
+  padding: 3px;
+  font-weight: bold;
+  text-align: start;
+  width: 22%;
+  margin-top: 8px;
+}
+
+.movie img {
+  height: 220px;
+  width: 100%;
+   
+}
+
+
+.heading{
+  color: black;
+}
